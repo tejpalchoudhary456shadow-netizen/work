@@ -38,7 +38,7 @@ function seedPosts() {
   state.posts = [
     {
       id:'post-1',
-      title:'Security Assessment of Sidhi Marwadi Website: My Testing Methodology and Findings',
+      title:'Security Assessment of Max Marwadi Website: My Testing Methodology and Findings',
       excerpt:'An authorized security assessment of the Sidhi Marwadi website focusing on CSRF protection, CSP, cookie security, and overall web application hardening.',
       content:`## Introduction
 
@@ -50,7 +50,7 @@ This assessment was performed using industry-standard web security testing tools
 
 Target:
 
-- https://sidhimarwadi.com
+- https://targetmarwadi.com
 
 The assessment focused on security headers, cookie security, Content Security Policy (CSP), CSRF protection, third-party resource security, information disclosure issues, and general web application security posture.
 
